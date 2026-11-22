@@ -44,12 +44,12 @@ env:
 
   # This values are normally passed from the rdgen server via an encrypted zip
 
-  androidappid: "de.audate.support"
+  androidappid: "de.audate.master"
   apiServer: ""
-  appname: "Audate Support"
+  appname: "Audate Master"
   compname: "Audate"
   downloadLink: ""
-  filename: "audate-support"
+  filename: "audate-master"
   key: "ex6sHpCo3zLMSJAfM3IOS2c8+KJdWpcBEhnD7t5xycI="
   server: "audateslim.synology.me"
   urlLink: "https://www.audate.de/"

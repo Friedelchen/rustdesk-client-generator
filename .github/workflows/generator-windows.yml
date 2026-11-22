@@ -65,7 +65,8 @@ env:
   cycleMonitor: "true"
   xOffline: "false"
   removeNewVersionNotif: "true"
-  custom: ""
+  custom: "eyJjb25uLXR5cGUiOiJpbmNvbWluZyIsImRpc2FibGUtaW5zdGFsbGF0aW9uIjoiWSIsImRpc2FibGUtc2V0dGluZ3MiOiJZIiwiYWxsb3ctbnVtZXJpYy1vbmUtdGltZS1wYXNzd29yZCI6IlkiLCJudW1lcmljLW9uZS10aW1lLXBhc3N3b3JkIjoiWSIsInRlbXBvcmFyeS1wYXNzd29yZC1sZW5ndGgiOiI2In0="
+
 
 
 jobs:
